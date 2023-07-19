@@ -1019,7 +1019,7 @@
 
         @font-face {
             font-family: "Ac";
-            src: url("path/FlexiSpace/themes/qc/fonts/Ac/Ac.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Ac/Ac.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Ac/Ac.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Ac/Ac.ttf") format("truetype");
         }
 
         *[data-ico-ac]:before {
@@ -1029,7 +1029,7 @@
 
         @font-face {
             font-family: "Business";
-            src: url("path/FlexiSpace/themes/qc/fonts/Business/Business.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Business/Business.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Business/Business.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Business/Business.ttf") format("truetype");
         }
 
         *[data-ico-business]:before {
@@ -1039,7 +1039,7 @@
 
         @font-face {
             font-family: "Design";
-            src: url("path/FlexiSpace/themes/qc/fonts/Design/Design.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Design/Design.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Design/Design.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Design/Design.ttf") format("truetype");
         }
 
         *[data-ico-design]:before {
@@ -1049,7 +1049,7 @@
 
         @font-face {
             font-family: "Engineering";
-            src: url("path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.ttf") format("truetype");
         }
 
         *[data-ico-engineering]:before {
@@ -1059,7 +1059,7 @@
 
         @font-face {
             font-family: "Essential";
-            src: url("path/FlexiSpace/themes/qc/fonts/Essential/Essential.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Essential/Essential.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Essential/Essential.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Essential/Essential.ttf") format("truetype");
         }
 
         *[data-ico-essential]:before {
@@ -1069,7 +1069,7 @@
 
         @font-face {
             font-family: "FontAwesome";
-            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.ttf") format("truetype");
         }
 
         *[data-ico-fontawesome]:before {
@@ -1079,7 +1079,7 @@
 
         @font-face {
             font-family: "FontAwesome5Brands";
-            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.ttf") format("truetype");
         }
 
         *[data-ico-fontawesome5brands]:before {
@@ -1089,7 +1089,7 @@
 
         @font-face {
             font-family: "FontAwesome5Regular";
-            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.ttf") format("truetype");
         }
 
         *[data-ico-fontawesome5regular]:before {
@@ -1099,7 +1099,7 @@
 
         @font-face {
             font-family: "FontAwesome5Solid";
-            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.ttf") format("truetype");
         }
 
         *[data-ico-fontawesome5solid]:before {
@@ -1109,7 +1109,7 @@
 
         @font-face {
             font-family: "Heating";
-            src: url("path/FlexiSpace/themes/qc/fonts/Heating/Heating.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Heating/Heating.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Heating/Heating.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Heating/Heating.ttf") format("truetype");
         }
 
         *[data-ico-heating]:before {
@@ -1119,7 +1119,7 @@
 
         @font-face {
             font-family: "Icon7Stroke";
-            src: url("path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.ttf") format("truetype");
         }
 
         *[data-ico-icon7stroke]:before {
@@ -1129,7 +1129,7 @@
 
         @font-face {
             font-family: "Pipes";
-            src: url("path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.ttf") format("truetype");
         }
 
         *[data-ico-pipes]:before {
@@ -1139,7 +1139,7 @@
 
         @font-face {
             font-family: "Plumber";
-            src: url("path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.ttf") format("truetype");
         }
 
         *[data-ico-plumber]:before {
@@ -1149,7 +1149,7 @@
 
         @font-face {
             font-family: "Tools";
-            src: url("path/FlexiSpace/themes/qc/fonts/Tools/Tools.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Tools/Tools.ttf") format("truetype");
+            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Tools/Tools.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Tools/Tools.ttf") format("truetype");
         }
 
         *[data-ico-tools]:before {
