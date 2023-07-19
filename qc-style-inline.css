@@ -1,0 +1,1158 @@
+
+        select,
+        input {
+            font-family: "Roboto";
+        }
+
+        .fancy-select ul.options li:hover {
+            color: #98423b;
+        }
+
+        .hjContent a {
+            color: #98423b;
+        }
+
+        a:hover {
+            color: #98423b;
+        }
+
+        .hjText a {
+            color: #98423b;
+        }
+
+        body {
+            font-family: "Roboto", Arial, sans-serif;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: "Montserrat";
+        }
+
+        blockquote {
+            font-family: "Montserrat";
+        }
+
+        blockquote:after {
+            border-color: #98423b;
+        }
+
+        cite {
+            font-family: "Montserrat";
+        }
+
+        .hjAccentDarkHeader .hjPreloader .animation>div:first-child,
+        .hjLightAccentHeader .hjPreloader .animation>div:first-child,
+        .hjTransparentLightHeader .hjPreloader .animation>div:first-child {
+            background-color: #98423b;
+        }
+
+        .hjPreloader .animation p {
+            font-family: "Montserrat";
+        }
+
+        .hjLoader {
+            border-top: 2px solid #98423b !important;
+            border-right: 2px solid #98423b !important;
+        }
+
+        .hjLoader:before,
+        .hjLoader:after {
+            border-top: 2px solid #98423b !important;
+            border-right: 2px solid #98423b !important;
+        }
+
+        .hjNoSearchResults .hj_hh_port #searchform input[type="submit"] {
+            -webkit-box-shadow: 0 0 0 3em #98423b inset;
+            box-shadow: 0 0 0 3em #98423b inset;
+        }
+
+        .hjNoSearchResults .hj_hh_port #searchform input[type="submit"]:hover {
+            -webkit-box-shadow: 0 0 0 2px #98423b inset;
+            box-shadow: 0 0 0 2px #98423b inset;
+            color: #98423b;
+        }
+
+        .mainHeader {
+            font-family: "Montserrat";
+        }
+
+        .mainHeader a:hover {
+            color: #98423b;
+        }
+
+        .menuPort {
+            font-family: "Montserrat";
+        }
+
+        .menuPort nav>ul>li>a {
+            line-height: 90px;
+        }
+
+        .hjTextLogo {
+            font-family: "Montserrat";
+            line-height: 90px;
+        }
+
+        .hjLogoArea .logo img {
+            height: 47px;
+        }
+
+        .hjTransparentDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjTransparentLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjOpacityLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjAccentLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjGreyLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjAccentDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjLightDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjHasAltLogo.hjStickyHeaderActive .hjHorizontalMenuTrigger:hover .hj_hh_icon:before,
+        .hjTransparentDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjTransparentLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjOpacityLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjAccentLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjGreyLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjAccentDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjLightDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon:after,
+        .hjHasAltLogo.hjStickyHeaderActive .hjHorizontalMenuTrigger:hover .hj_hh_icon:after {
+            border-top-color: #98423b;
+        }
+
+        .hjTransparentDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjTransparentLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjOpacityLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjAccentLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjGreyLightHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjAccentDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjLightDarkHeader .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before,
+        .hjHasAltLogo.hjStickyHeaderActive .hjHorizontalMenuTrigger:hover .hj_hh_icon .hj_hh_icon_holder:before {
+            border-top-color: #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor li.current-menu-ancestor>a,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor li.current-menu-item>a,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-item li.current-menu-ancestor>a,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-item li.current-menu-item>a {
+            color: #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor>a:before,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-item>a:before {
+            background-color: #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor li.current-menu-ancestor>a,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor li.current-menu-item>a,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-item li.current-menu-ancestor>a,
+        .hjMenuHorizontal .menuPort nav>ul>li.current-menu-item li.current-menu-item>a {
+            color: #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort ul ul li a:hover {
+            color: #98423b;
+        }
+
+        body.hjMenuHorizontal .subToggler {
+            line-height: 90px;
+        }
+
+        .hjMenuHorizontal .menuPort>nav>ul>li>ul li a:hover {
+            -webkit-box-shadow: inset 5px 0 0 0 #98423b;
+            box-shadow: inset 5px 0 0 0 #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort>nav>ul>li:not(.hjMenuWideDropdown)>ul li a:hover {
+            -webkit-box-shadow: inset 5px 0 0 0 #98423b;
+            box-shadow: inset 5px 0 0 0 #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort>nav>ul>li:not(.hjMenuWideDropdown)>ul li:first-child>a {
+            -webkit-box-shadow: inset 0 5px 0 0 #98423b;
+            box-shadow: inset 0 5px 0 0 #98423b;
+        }
+
+        .hjMenuHorizontal .menuPort>nav>ul>li:not(.hjMenuWideDropdown)>ul li:first-child>a:hover {
+            -webkit-box-shadow: inset 5px 5px 0 0 #98423b;
+            box-shadow: inset 5px 5px 0 0 #98423b;
+        }
+
+        html:not(.touch) body.hjMenuHorizontal .menuPort>nav>ul>li.hjMenuWideDropdown>ul>li>a {
+            color: #98423b;
+            -webkit-box-shadow: inset 0 5px 0 0 #98423b;
+            box-shadow: inset 0 5px 0 0 #98423b;
+        }
+
+        html:not(.touch) body.hjMenuHorizontal .menuPort>nav>ul>li.hjMenuWideDropdown>ul>li>a:hover {
+            -webkit-box-shadow: inset 5px 5px 0 0 #98423b;
+            box-shadow: inset 5px 5px 0 0 #98423b;
+        }
+
+        .hjMenuHorizontal .topBarInMenu {
+            height: 90px;
+        }
+
+        .hjMenuVertical.hjOpacityLightHeader .mainHeader {
+            background-color: #98423b;
+        }
+
+        .hjAccentLightHeader .hjBelowLogoArea,
+        .hjAccentLightHeader .topBar {
+            background-color: #98423b;
+        }
+
+        .hjAccentLightHeader .hjBelowLogoArea a:hover,
+        .hjAccentLightHeader .topBar a:hover {
+            color: #dad674;
+        }
+
+        .hjGreyLightHeader .hjBelowLogoArea a:hover,
+        .hjGreyLightHeader .topBar a:hover {
+            color: #98423b;
+        }
+
+        .hjAccentDarkHeader .hjBelowLogoArea,
+        .hjAccentDarkHeader .topBar {
+            background-color: #98423b;
+        }
+
+        .hjAccentDarkHeader .hjBelowLogoArea a:hover,
+        .hjAccentDarkHeader .topBar a:hover {
+            color: #dad674;
+        }
+
+        .hjLightAccentHeader .hjLogoArea,
+        .hjLightAccentHeader .hjVerticalHeaderTop {
+            background-color: #98423b;
+        }
+
+        .hjLightAccentHeader.hjMenuHorizontal.hjBelowMenu .mainHeader .hjLogoArea {
+            background-color: #98423b;
+        }
+
+        .hjMenuVertical .mainHeader .hjCloseVertical:before:hover {
+            color: #98423b;
+        }
+
+        .hjMenuHorizontal .topBarInLogoArea {
+            height: 90px;
+        }
+
+        .hjMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell {
+            border: 0 solid #98423b;
+        }
+
+        .hjMenuVertical .mainHeader .hjCloseVertical:before:hover {
+            color: #98423b;
+        }
+
+        .hjDarkSkin .hjSiteFooterCopyMenu .port:before,
+        .hjLightSkin .hjDarkSkin .hjSiteFooterCopyMenu .port:before,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjSiteFooterCopyMenu .port:before {
+            background-color: #98423b;
+        }
+
+        article .hj_hh_headline a:hover {
+            color: #98423b;
+        }
+
+        .hjPostSingleItemStandard .hjArticleShareEtc .hjReadMoreColumn .hj_hh_button a {
+            background: #98423b;
+        }
+
+        .hjArticleSuperMeta dl {
+            border: 6px solid #98423b;
+        }
+
+        .hjMediaBox.hjQuote:before,
+        .hjMediaBox.hjLink:before {
+            background-color: #98423b;
+        }
+
+        .hjShareColumn .hj_hh_icon .hj_hh_icon_holder:hover:before,
+        .hjShareRow .hj_hh_icon .hj_hh_icon_holder:hover:before,
+        .hjAuthorSocial .hj_hh_icon .hj_hh_icon_holder:hover:before {
+            -webkit-box-shadow: 0 0 0 1em #98423b inset;
+            box-shadow: 0 0 0 1em #98423b inset;
+        }
+
+        .hjShareColumn .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjShareRow .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjAuthorSocial .hj_hh_icon:hover .hj_hh_icon_holder:before {
+            -webkit-box-shadow: 0 0 0 1em #98423b inset;
+            box-shadow: 0 0 0 1em #98423b inset;
+        }
+
+        .hjDarkSkin .hjShareColumn .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjLightSkin .hjDarkSkin .hjShareColumn .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjShareColumn .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjDarkSkin .hjShareRow .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjLightSkin .hjDarkSkin .hjShareRow .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjShareRow .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjDarkSkin .hjAuthorSocial .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjLightSkin .hjDarkSkin .hjAuthorSocial .hj_hh_icon:hover .hj_hh_icon_holder:before,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjAuthorSocial .hj_hh_icon:hover .hj_hh_icon_holder:before {
+            -webkit-box-shadow: 0 0 0 1em #98423b inset;
+            box-shadow: 0 0 0 1em #98423b inset;
+        }
+
+        .sticky.hjArticleListItem .hjArticleHeadline h1 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h2 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h3 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h4 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h5 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h6 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h7 .hj_hh_headline_content span a:after,
+        .sticky.hjArticleListItem .hjArticleHeadline h8 .hj_hh_headline_content span a:after {
+            color: #98423b;
+        }
+
+        .post-password-form p:first-child {
+            color: #dad674;
+        }
+
+        .post-password-form p:nth-child(2) input[type="submit"] {
+            background: #98423b;
+        }
+
+        .hjPagination {
+            font-family: "Montserrat";
+        }
+
+        .hjPagination .paging a:hover {
+            color: #98423b;
+        }
+
+        .hjPagination .paging a:hover:after {
+            border-color: #98423b;
+            color: #98423b;
+        }
+
+        .hjPrevNextNav .hjPrevNext .hjPrevNextItem .hjPrevNextTitle {
+            font-family: "Montserrat";
+        }
+
+        .hjPrevNextNav .hjPrevNext:hover .hjPrevNextTitle {
+            color: #98423b;
+        }
+
+        .hjArticleCategories a:hover {
+            color: #98423b;
+        }
+
+        .hjArticleCategories a:not(:first-child):before {
+            background-color: #98423b;
+        }
+
+        .hj-comments-box .commentTxt p.edit-link,
+        .hj-comments-box .commentTxt p.reply {
+            font-family: "Montserrat";
+        }
+
+        .comment-awaiting-moderation {
+            color: #98423b;
+        }
+
+        a#cancel-comment-reply-link:hover {
+            color: #98423b;
+        }
+
+        .hjCommentSubmit {
+            background: #98423b;
+        }
+
+        .sidebar .widget_hj_hh_recent_posts ul li .hj_hh_headline .hj_hh_headline_content a:hover,
+        .hjSidebar .widget_hj_hh_recent_posts ul li .hj_hh_headline .hj_hh_headline_content a:hover,
+        .hjSiteFooterWidgets .widget_hj_hh_recent_posts ul li .hj_hh_headline .hj_hh_headline_content a:hover {
+            color: #98423b !important;
+        }
+
+        body:not(.hjNoDashInSidebar) .hjBox>h4:after,
+        body:not(.hjNoDashInSidebar) .hjCustomMenu>h4:after,
+        body:not(.hjNoDashInSidebar) .hjTopBox>h4:after {
+            border-bottom: 3px solid #98423b;
+        }
+
+        .hjBox ul li.current-menu-item>a,
+        .hjCustomMenu ul li.current-menu-item>a,
+        .hjTopBox ul li.current-menu-item>a {
+            color: #98423b;
+        }
+
+        .hjBox .hjImageTextWidget .hjImageTextWidgetText .hj_hh_headline .hj_hh_headline_content span a:hover,
+        .hjCustomMenu .hjImageTextWidget .hjImageTextWidgetText .hj_hh_headline .hj_hh_headline_content span a:hover,
+        .hjTopBox .hjImageTextWidget .hjImageTextWidgetText .hj_hh_headline .hj_hh_headline_content span a:hover {
+            color: #98423b;
+        }
+
+        .widget_calendar table caption {
+            background: #98423b;
+            font-family: "Montserrat";
+        }
+
+        .widget_calendar table tbody tr td#today {
+            color: #98423b;
+        }
+
+        .widget_rss li a.rsswidget {
+            font-family: "Montserrat";
+        }
+
+        .widget_shopping_cart .total {
+            font-family: "Montserrat";
+        }
+
+        .widget_shopping_cart .buttons .button {
+            background: #98423b;
+        }
+
+        .widget_shopping_cart .widget_shopping_cart_content .mini_cart_item .ppRemove a.remove {
+            background-color: #98423b;
+        }
+
+        .widget_shopping_cart .widget_shopping_cart_content .mini_cart_item .ppRemove a.remove:hover {
+            background-color: #dad674;
+        }
+
+        .menuPort .widget_shopping_cart .widget_shopping_cart_content .hjCartWidgetIcon span.cart-contents,
+        .topTools .widget_shopping_cart .widget_shopping_cart_content .hjCartWidgetIcon span.cart-contents,
+        .topBarInLogoArea .widget_shopping_cart .widget_shopping_cart_content .hjCartWidgetIcon span.cart-contents {
+            font: normal 0.9em/1 "Montserrat";
+        }
+
+        .hjMenuVertical .menuPort .widget_shopping_cart .widget_shopping_cart_content .hjCartWidgetInnerContent .verticalMenuCartToggler,
+        .hjMenuVertical .topTools .widget_shopping_cart .widget_shopping_cart_content .hjCartWidgetInnerContent .verticalMenuCartToggler,
+        .hjMenuVertical .topBarInLogoArea .widget_shopping_cart .widget_shopping_cart_content .hjCartWidgetInnerContent .verticalMenuCartToggler {
+            background-color: #98423b;
+        }
+
+        .widget_recent_reviews {
+            font-family: "Montserrat";
+        }
+
+        .hjBox .tagcloud a:hover {
+            color: #98423b !important;
+        }
+
+        .hjTags ul li a:hover {
+            color: #98423b !important;
+        }
+
+        .topTools .hjIconWidget:hover,
+        .topBarInMenu .hjIconWidget:hover {
+            color: #98423b;
+        }
+
+        .hjSidebar .hjIconWidget:hover .hjIconWidgetText,
+        footer .hjIconWidget:hover .hjIconWidgetText,
+        .topBarInLogoArea .hjIconWidget:hover .hjIconWidgetText {
+            color: #98423b;
+        }
+
+        .hjAccentIconWidget.hjIconWidget .hjIconWidgetIcon {
+            color: #98423b;
+        }
+
+        .hjSiteFooterWidgets .hjSearch button:hover:before,
+        .hjSidebar .hjSearch button:hover:before,
+        .hjSidebar .widget_product_search button:hover:before,
+        .woocommerce .hjSidebar .hjSearch button:hover:before {
+            color: #98423b;
+        }
+
+        .hjSearchInner.hjFromTopBox .hjSearchInnerClose .hj_hh_icon a.hj_hh_icon_holder {
+            color: #98423b;
+        }
+
+        .hjSearchInner.hjFromTopBox .hjSearchInnerClose .hj_hh_icon:hover a.hj_hh_icon_holder {
+            color: #12701a;
+        }
+
+        .hjSearchInner.hjFromTopBox button:hover:before {
+            color: #98423b;
+        }
+
+        div.hjButtonWidget a.hjButtonWidgetLink {
+            background-color: #98423b;
+        }
+
+        .hjAccentDarkHeader .topBarInMenu div.hjButtonWidget a {
+            background-color: #98423b;
+        }
+
+        .hj_hh_headline .hj_hh_headline_superheadline {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_headline.hj_hh_subheadline .hj_hh_headline_subheadline {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_headline h1 b,
+        .hj_hh_headline h2 b,
+        .hj_hh_headline h3 b,
+        .hj_hh_headline h4 b,
+        .hj_hh_headline h5 b,
+        .hj_hh_headline h6 b {
+            color: #98423b;
+        }
+
+        .hjHasBgImage.hj_hh_headline .hj_hh_headline_content span {
+            background-color: #98423b;
+        }
+
+        .hj_hh_progress_bar.hj_hh_style_filled .hj_hh_progress_bar_inner {
+            background-image: -webkit-linear-gradient(135deg, #98423b 33%, #dad674 66%);
+            background-image: -moz-linear-gradient(135deg, #98423b 33%, #dad674 66%);
+            background-image: -ms-linear-gradient(135deg, #98423b 33%, #dad674 66%);
+            background-image: -o-linear-gradient(135deg, #98423b 33%, #dad674 66%);
+            background-image: -webkit-linear-gradient(315deg, #98423b 33%, #dad674 66%);
+            background-image: -moz-linear-gradient(315deg, #98423b 33%, #dad674 66%);
+            background-image: linear-gradient(135deg, #98423b 33%, #dad674 66%);
+        }
+
+        .hj_hh_latest_posts .hj_hh_latest_posts_item .hj_hh_latest_posts_item_content .hj_hh_latest_posts_item_meta>div {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_latest_posts .hj_hh_latest_posts_item .hj_hh_latest_posts_item_content .hj_hh_latest_posts_item_meta .hj_hh_latest_posts_item_author a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_latest_posts .hj_hh_latest_posts_item .hj_hh_latest_posts_item_content .hj_hh_latest_posts_item_meta .hj_hh_latest_posts_item_category .post-categories li a {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_latest_posts .hj_hh_latest_posts_item .hj_hh_latest_posts_item_content .hj_hh_latest_posts_item_meta .hj_hh_latest_posts_item_category .post-categories li a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_latest_posts .hj_hh_latest_posts_item .hj_hh_latest_posts_item_content .hj_hh_latest_posts_item_title a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_masonry_post_grid .hj_hh_grid_item_post_content .hj_hh_grid_item_category .post-categories li a {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_masonry_post_grid .hj_hh_grid_item_post_content .hj_hh_grid_item_category .post-categories li a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_masonry_post_grid .hj_hh_grid_item_post_content .hj_hh_grid_item_meta {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_masonry_post_grid .hj_hh_grid_item_post_content .hj_hh_grid_item_meta .hj_hh_grid_item_item_author a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_masonry_post_grid .hj_hh_grid_item_post_content .hj_hh_grid_item_post_title a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_icon .hj_hh_icon_holder>span {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_service .hj_hh_service_content .hj_hh_service_content_title {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_service .hj_hh_service_content .hj_hh_service_content_text b {
+            color: #98423b;
+        }
+
+        .hj_hh_service:hover .hj_hh_service_content_title a {
+            color: #98423b;
+        }
+
+        .hj_hh_accordion .hj_hh_accordion_item .hj_hh_accordion_item_number {
+            background-color: #98423b;
+        }
+
+        .hj_hh_accordion .hj_hh_accordion_item .hj_hh_accordion_item_title {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_accordion .hj_hh_accordion_item .hj_hh_accordion_item_title:after {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_accordion .hj_hh_accordion_item:hover .hj_hh_accordion_item_title {
+            background: #98423b;
+        }
+
+        .hj_hh_accordion .hj_hh_accordion_item.on .hj_hh_accordion_item_title {
+            background: #98423b;
+        }
+
+        .hj_hh_custom_menu div ul a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_tabs.hj_hh_style_simple ul.hj_hh_tabs_header li.on {
+            border-color: #98423b;
+        }
+
+        .hj_hh_counter_holder .hj_hh_counter {
+            font-family: "Montserrat";
+        }
+
+        .cf7-form .cf7-submit {
+            background-color: #98423b !important;
+        }
+
+        div.cf7-validation-errors,
+        div.cf7-acceptance-missing {
+            border: 2px solid #98423b;
+        }
+
+        span.cf7-not-valid-tip {
+            color: #98423b;
+        }
+
+        .hjLandingTitle.hj_hh_headline.hjHasBgImage .hj_hh_headline_content span {
+            background-color: #98423b;
+        }
+
+        .hjLandingNewsletter input[type="submit"] {
+            background-color: #dad674 !important;
+        }
+
+        .products ul li.product .hjWooShopLoopItemInner .added_to_cart:hover,
+        ul.products li.product .hjWooShopLoopItemInner .added_to_cart:hover {
+            color: #98423b;
+        }
+
+        .products ul li.product .onsale,
+        ul.products li.product .onsale {
+            background: #dad674;
+        }
+
+        nav.woocommerce-pagination ul li a,
+        nav.woocommerce-pagination ul li span {
+            color: #98423b;
+        }
+
+        nav.woocommerce-pagination ul li a:focus,
+        nav.woocommerce-pagination ul li a.next,
+        nav.woocommerce-pagination ul li a.prev {
+            color: #98423b;
+        }
+
+        div.product .onsale {
+            background: #dad674;
+        }
+
+        div.product div.images .woocommerce-product-gallery__trigger:after {
+            -webkit-box-shadow: 0 0 0 2em #98423b inset, 0 0 0 2em rgba(255, 255, 255, 0.5) inset;
+            box-shadow: 0 0 0 2em #98423b inset, 0 0 0 2em rgba(255, 255, 255, 0.5) inset;
+        }
+
+        div.product div.images .woocommerce-product-gallery__trigger:hover:after {
+            -webkit-box-shadow: 0 0 0 1px #98423b inset, 0 0 0 2em rgba(255, 255, 255, 0.5) inset;
+            box-shadow: 0 0 0 1px #98423b inset, 0 0 0 2em rgba(255, 255, 255, 0.5) inset;
+            color: #98423b;
+        }
+
+        table.shop_table .coupon .input-text {
+            color: #98423b;
+        }
+
+        table.shop_table td a:hover,
+        table.shop_table th a:hover {
+            color: #98423b;
+        }
+
+        table.shop_table td.product-remove a.remove:hover {
+            background-color: #dad674;
+        }
+
+        ul.wc_payment_methods li .about_paypal {
+            color: #98423b;
+        }
+
+        .woocommerce-MyAccount-navigation ul li a {
+            border-bottom: 2px solid #98423b;
+        }
+
+        .woocommerce-info a:not(.button),
+        .woocommerce-message a:not(.button) {
+            color: #98423b;
+        }
+
+        .woocommerce-error {
+            border-top-color: #dad674;
+        }
+
+        .woocommerce-message:before,
+        .woocommerce-info:before {
+            color: #98423b;
+        }
+
+        .woocommerce-error:before {
+            color: #dad674;
+        }
+
+        .woocommerce .hjSidebar a.button,
+        .woocommerce .hjContent a.button,
+        .woocommerce-page .hjSidebar a.button,
+        .woocommerce-page .hjContent a.button,
+        .woocommerce .hjSidebar input[type="submit"],
+        .woocommerce .hjContent input[type="submit"],
+        .woocommerce-page .hjSidebar input[type="submit"],
+        .woocommerce-page .hjContent input[type="submit"],
+        .woocommerce .hjSidebar button[type="submit"],
+        .woocommerce .hjContent button[type="submit"],
+        .woocommerce-page .hjSidebar button[type="submit"],
+        .woocommerce-page .hjContent button[type="submit"],
+        .woocommerce .hjSidebar input.button,
+        .woocommerce .hjContent input.button,
+        .woocommerce-page .hjSidebar input.button,
+        .woocommerce-page .hjContent input.button,
+        .woocommerce .hjSidebar input.alt:hover,
+        .woocommerce .hjContent input.alt:hover,
+        .woocommerce-page .hjSidebar input.alt:hover,
+        .woocommerce-page .hjContent input.alt:hover,
+        .woocommerce .hjSidebar a.button.alt:hover,
+        .woocommerce .hjContent a.button.alt:hover,
+        .woocommerce-page .hjSidebar a.button.alt:hover,
+        .woocommerce-page .hjContent a.button.alt:hover,
+        .woocommerce .hjSidebar .button.alt:hover,
+        .woocommerce .hjContent .button.alt:hover,
+        .woocommerce-page .hjSidebar .button.alt:hover,
+        .woocommerce-page .hjContent .button.alt:hover,
+        .woocommerce .hjSidebar button.alt:hover,
+        .woocommerce .hjContent button.alt:hover,
+        .woocommerce-page .hjSidebar button.alt:hover,
+        .woocommerce-page .hjContent button.alt:hover,
+        div.woocommerce a.button,
+        div.woocommerce input[type="submit"],
+        div.woocommerce button[type="submit"],
+        div.woocommerce input.button,
+        div.woocommerce input.alt:hover,
+        div.woocommerce a.button.alt:hover,
+        div.woocommerce .button.alt:hover,
+        div.woocommerce button.alt:hover {
+            background: #98423b;
+        }
+
+        .woocommerce .hjSidebar a.button,
+        .woocommerce .hjContent a.button,
+        .woocommerce-page .hjSidebar a.button,
+        .woocommerce-page .hjContent a.button,
+        .woocommerce .hjSidebar input[type="submit"],
+        .woocommerce .hjContent input[type="submit"],
+        .woocommerce-page .hjSidebar input[type="submit"],
+        .woocommerce-page .hjContent input[type="submit"],
+        .woocommerce .hjSidebar button[type="submit"],
+        .woocommerce .hjContent button[type="submit"],
+        .woocommerce-page .hjSidebar button[type="submit"],
+        .woocommerce-page .hjContent button[type="submit"],
+        .woocommerce .hjSidebar input.button,
+        .woocommerce .hjContent input.button,
+        .woocommerce-page .hjSidebar input.button,
+        .woocommerce-page .hjContent input.button,
+        .woocommerce .hjSidebar input.alt:hover,
+        .woocommerce .hjContent input.alt:hover,
+        .woocommerce-page .hjSidebar input.alt:hover,
+        .woocommerce-page .hjContent input.alt:hover,
+        .woocommerce .hjSidebar a.button.alt:hover,
+        .woocommerce .hjContent a.button.alt:hover,
+        .woocommerce-page .hjSidebar a.button.alt:hover,
+        .woocommerce-page .hjContent a.button.alt:hover,
+        .woocommerce .hjSidebar .button.alt:hover,
+        .woocommerce .hjContent .button.alt:hover,
+        .woocommerce-page .hjSidebar .button.alt:hover,
+        .woocommerce-page .hjContent .button.alt:hover,
+        .woocommerce .hjSidebar button.alt:hover,
+        .woocommerce .hjContent button.alt:hover,
+        .woocommerce-page .hjSidebar button.alt:hover,
+        .woocommerce-page .hjContent button.alt:hover,
+        div.woocommerce a.button,
+        div.woocommerce input[type="submit"],
+        div.woocommerce button[type="submit"],
+        div.woocommerce input.button,
+        div.woocommerce input.alt:hover,
+        div.woocommerce a.button.alt:hover,
+        div.woocommerce .button.alt:hover,
+        div.woocommerce button.alt:hover {
+            background: #98423b;
+        }
+
+        .woocommerce .hjSidebar a.button:hover,
+        .woocommerce .hjContent a.button:hover,
+        .woocommerce-page .hjSidebar a.button:hover,
+        .woocommerce-page .hjContent a.button:hover,
+        .woocommerce .hjSidebar input[type="submit"]:hover,
+        .woocommerce .hjContent input[type="submit"]:hover,
+        .woocommerce-page .hjSidebar input[type="submit"]:hover,
+        .woocommerce-page .hjContent input[type="submit"]:hover,
+        .woocommerce .hjSidebar button[type="submit"]:hover,
+        .woocommerce .hjContent button[type="submit"]:hover,
+        .woocommerce-page .hjSidebar button[type="submit"]:hover,
+        .woocommerce-page .hjContent button[type="submit"]:hover,
+        .woocommerce .hjSidebar input.button:hover,
+        .woocommerce .hjContent input.button:hover,
+        .woocommerce-page .hjSidebar input.button:hover,
+        .woocommerce-page .hjContent input.button:hover,
+        .woocommerce .hjSidebar input.alt,
+        .woocommerce .hjContent input.alt,
+        .woocommerce-page .hjSidebar input.alt,
+        .woocommerce-page .hjContent input.alt,
+        .woocommerce .hjSidebar a.button.alt,
+        .woocommerce .hjContent a.button.alt,
+        .woocommerce-page .hjSidebar a.button.alt,
+        .woocommerce-page .hjContent a.button.alt,
+        .woocommerce .hjSidebar .button.alt,
+        .woocommerce .hjContent .button.alt,
+        .woocommerce-page .hjSidebar .button.alt,
+        .woocommerce-page .hjContent .button.alt,
+        .woocommerce .hjSidebar button.alt,
+        .woocommerce .hjContent button.alt,
+        .woocommerce-page .hjSidebar button.alt,
+        .woocommerce-page .hjContent button.alt,
+        div.woocommerce a.button:hover,
+        div.woocommerce input[type="submit"]:hover,
+        div.woocommerce button[type="submit"]:hover,
+        div.woocommerce input.button:hover,
+        div.woocommerce input.alt,
+        div.woocommerce a.button.alt,
+        div.woocommerce .button.alt,
+        div.woocommerce button.alt {
+            background: #98423b;
+        }
+
+        .star-rating span:before {
+            color: #98423b;
+        }
+
+        p.stars a[class^="star-"].active:after,
+        p.stars a[class^="star-"]:hover:after {
+            color: #98423b;
+        }
+
+        .select2-container--default .select2-results__option--highlighted[aria-selected],
+        .select2-container--default .select2-results__option--highlighted[data-selected] {
+            background-color: #98423b;
+        }
+
+        .woocommerce-cart-form thead tr {
+            background-color: #98423b;
+        }
+
+        .hjQuoteBooking .hjContactNext {
+            border-color: #98423b;
+            color: #98423b;
+        }
+
+        .hjQuoteBooking .hjQuoteSwitch.on .hjQuoteSwitchInner {
+            background: #98423b;
+        }
+
+        .hjQuoteBooking input[type="text"]:focus,
+        .hjQuoteBooking input[type="email"]:focus,
+        .hjQuoteBooking input[type="password"]:focus,
+        .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus {
+            -webkit-box-shadow: 0 0 4px 0 #98423b;
+            box-shadow: 0 0 4px 0 #98423b;
+        }
+
+        .hjLightSkin .hjQuoteBooking input[type="text"]:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking input[type="text"]:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking input[type="text"]:focus,
+        .hjLightSkin .hjQuoteBooking input[type="email"]:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking input[type="email"]:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking input[type="email"]:focus,
+        .hjLightSkin .hjQuoteBooking input[type="password"]:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking input[type="password"]:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking input[type="password"]:focus,
+        .hjLightSkin .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjLightSkin .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjLightSkin .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjLightSkin .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus,
+        .hjDarkSkin .hjLightSkin .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus,
+        .hjLightSkin .hjDarkSkin .hjLightSkin .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus {
+            -webkit-box-shadow: 0 0 4px 0 #98423b;
+            box-shadow: 0 0 4px 0 #98423b;
+        }
+
+        .hjDarkSkin .hjQuoteBooking input[type="text"]:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking input[type="text"]:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking input[type="text"]:focus,
+        .hjDarkSkin .hjQuoteBooking input[type="email"]:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking input[type="email"]:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking input[type="email"]:focus,
+        .hjDarkSkin .hjQuoteBooking input[type="password"]:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking input[type="password"]:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking input[type="password"]:focus,
+        .hjDarkSkin .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking .hjQuoteBooking textarea:focus,
+        .hjDarkSkin .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking .fancy-select .trigger:focus,
+        .hjDarkSkin .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking .ddcommon.borderRadius .ddTitleText:focus,
+        .hjDarkSkin .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus,
+        .hjLightSkin .hjDarkSkin .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus,
+        .hjDarkSkin.hjLightSkin .hjDarkSkin .hjQuoteBooking .ddcommon.borderRadiusTp .ddTitleText:focus {
+            -webkit-box-shadow: 0 0 4px 0 #98423b;
+            box-shadow: 0 0 4px 0 #98423b;
+        }
+
+        .hjQuoteBooking .dd.ddcommon.borderRadiusTp .ddTitleText,
+        .hjQuoteBooking .hjQuoteBooking .dd.ddcommon.borderRadiusBtm .ddTitleText {
+            -webkit-box-shadow: 5px 0 0 #98423b inset, 0 2px 10px rgba(0, 0, 0, 0.2);
+            box-shadow: 5px 0 0 #98423b inset, 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .hjQuoteBooking .ui-slider .ui-slider-handle {
+            background: #98423b;
+        }
+
+        .hjQuoteBooking .hjQuoteBookingForm .hjQuoteTotal {
+            background: #98423b;
+        }
+
+        .hjQuoteBooking .hjContactFieldMandatory.hjContactFieldError input,
+        .hjQuoteBooking .hjQuoteBooking .hjContactFieldMandatory.hjContactFieldError textarea {
+            -webkit-box-shadow: 0 0 0 1px #98423b inset;
+            box-shadow: 0 0 0 1px #98423b inset;
+            border-color: #98423b;
+        }
+
+        .hjQuoteBooking .hjContactFieldMandatory.hjContactFieldError .dd.ddcommon.borderRadius .ddTitleText {
+            -webkit-box-shadow: 0 0 0 2px #98423b inset;
+            box-shadow: 0 0 0 2px #98423b inset;
+        }
+
+        .hjQuoteBooking .hjSubmitMessage {
+            color: #98423b;
+        }
+
+        .hjQuoteBooking .hjContactSubmit {
+            background-color: #98423b;
+        }
+
+        .hjDatePicker .ui-datepicker-header {
+            background-color: #98423b;
+        }
+
+        .hjSpecialQuote.hjQuoteBooking .hjQuoteBookingForm .hjQuoteItem label {
+            font-family: "Montserrat";
+        }
+
+        .hjSpecialQuote.hjQuoteBooking.hjHeatingQuote .hjQuoteTotal .hjQuoteTotalCurrency,
+        .hjSpecialQuote.hjQuoteBooking.hjHeatingQuote .hjQuoteTotal .hjQuoteTotalCalc {
+            color: #98423b;
+        }
+
+        a .hj_hh_progress_bar_advanced .progressbar-text {
+            color: #98423b;
+        }
+
+        .hj_hh_progress_bar_advanced p {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_steps .hj_hh_steps_content .hj_hh_steps_content_title {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_steps .hj_hh_steps_content .hj_hh_steps_content_text b {
+            color: #98423b;
+        }
+
+        .hj_hh_steps:hover .hj_hh_steps_content_title a {
+            color: #98423b;
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_categories span.hjProductCategories a.hjProductCategory {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_categories span.hjProductCategories a.hjProductCategory:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_categories span.hjProductCategories a.hjProductCategory:not(:first-child):before {
+            background-color: #98423b;
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_title {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_title a:hover {
+            color: #98423b;
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_description {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_price {
+            font-family: "Montserrat";
+        }
+
+        .hj_hh_single_product .hj_hh_single_product_content .hj_hh_single_product_price_cart a.added_to_cart:hover {
+            color: #98423b;
+        }
+
+        .block-button__link:hover {
+            color: #98423b !important;
+        }
+
+        @font-face {
+            font-family: "Ac";
+            src: url("path/FlexiSpace/themes/qc/fonts/Ac/Ac.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Ac/Ac.ttf") format("truetype");
+        }
+
+        *[data-ico-ac]:before {
+            font-family: Ac;
+            content: attr(data-ico-ac);
+        }
+
+        @font-face {
+            font-family: "Business";
+            src: url("path/FlexiSpace/themes/qc/fonts/Business/Business.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Business/Business.ttf") format("truetype");
+        }
+
+        *[data-ico-business]:before {
+            font-family: Business;
+            content: attr(data-ico-business);
+        }
+
+        @font-face {
+            font-family: "Design";
+            src: url("path/FlexiSpace/themes/qc/fonts/Design/Design.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Design/Design.ttf") format("truetype");
+        }
+
+        *[data-ico-design]:before {
+            font-family: Design;
+            content: attr(data-ico-design);
+        }
+
+        @font-face {
+            font-family: "Engineering";
+            src: url("path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.ttf") format("truetype");
+        }
+
+        *[data-ico-engineering]:before {
+            font-family: Engineering;
+            content: attr(data-ico-engineering);
+        }
+
+        @font-face {
+            font-family: "Essential";
+            src: url("path/FlexiSpace/themes/qc/fonts/Essential/Essential.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Essential/Essential.ttf") format("truetype");
+        }
+
+        *[data-ico-essential]:before {
+            font-family: Essential;
+            content: attr(data-ico-essential);
+        }
+
+        @font-face {
+            font-family: "FontAwesome";
+            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.ttf") format("truetype");
+        }
+
+        *[data-ico-fontawesome]:before {
+            font-family: FontAwesome;
+            content: attr(data-ico-fontawesome);
+        }
+
+        @font-face {
+            font-family: "FontAwesome5Brands";
+            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.ttf") format("truetype");
+        }
+
+        *[data-ico-fontawesome5brands]:before {
+            font-family: FontAwesome5Brands;
+            content: attr(data-ico-fontawesome5brands);
+        }
+
+        @font-face {
+            font-family: "FontAwesome5Regular";
+            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.ttf") format("truetype");
+        }
+
+        *[data-ico-fontawesome5regular]:before {
+            font-family: FontAwesome5Regular;
+            content: attr(data-ico-fontawesome5regular);
+        }
+
+        @font-face {
+            font-family: "FontAwesome5Solid";
+            src: url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.ttf") format("truetype");
+        }
+
+        *[data-ico-fontawesome5solid]:before {
+            font-family: FontAwesome5Solid;
+            content: attr(data-ico-fontawesome5solid);
+        }
+
+        @font-face {
+            font-family: "Heating";
+            src: url("path/FlexiSpace/themes/qc/fonts/Heating/Heating.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Heating/Heating.ttf") format("truetype");
+        }
+
+        *[data-ico-heating]:before {
+            font-family: Heating;
+            content: attr(data-ico-heating);
+        }
+
+        @font-face {
+            font-family: "Icon7Stroke";
+            src: url("path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.ttf") format("truetype");
+        }
+
+        *[data-ico-icon7stroke]:before {
+            font-family: Icon7Stroke;
+            content: attr(data-ico-icon7stroke);
+        }
+
+        @font-face {
+            font-family: "Pipes";
+            src: url("path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.ttf") format("truetype");
+        }
+
+        *[data-ico-pipes]:before {
+            font-family: Pipes;
+            content: attr(data-ico-pipes);
+        }
+
+        @font-face {
+            font-family: "Plumber";
+            src: url("path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.ttf") format("truetype");
+        }
+
+        *[data-ico-plumber]:before {
+            font-family: Plumber;
+            content: attr(data-ico-plumber);
+        }
+
+        @font-face {
+            font-family: "Tools";
+            src: url("path/FlexiSpace/themes/qc/fonts/Tools/Tools.woff") format("woff"), url("path/FlexiSpace/themes/qc/fonts/Tools/Tools.ttf") format("truetype");
+        }
+
+        *[data-ico-tools]:before {
+            font-family: Tools;
+            content: attr(data-ico-tools);
+        }
