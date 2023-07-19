@@ -1018,141 +1018,141 @@
         }
 
         @font-face {
-            font-family: "Ac";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Ac/Ac.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Ac/Ac.ttf") format("truetype");
-        }
+    font-family: "Ac";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Ac/Ac.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Ac/Ac.ttf") format("truetype");
+}
 
-        *[data-ico-ac]:before {
-            font-family: Ac;
-            content: attr(data-ico-ac);
-        }
+*[data-ico-ac]:before {
+    font-family: Ac;
+    content: attr(data-ico-ac);
+}
 
-        @font-face {
-            font-family: "Business";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Business/Business.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Business/Business.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Business";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Business/Business.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Business/Business.ttf") format("truetype");
+}
 
-        *[data-ico-business]:before {
-            font-family: Business;
-            content: attr(data-ico-business);
-        }
+*[data-ico-business]:before {
+    font-family: Business;
+    content: attr(data-ico-business);
+}
 
-        @font-face {
-            font-family: "Design";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Design/Design.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Design/Design.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Design";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Design/Design.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Design/Design.ttf") format("truetype");
+}
 
-        *[data-ico-design]:before {
-            font-family: Design;
-            content: attr(data-ico-design);
-        }
+*[data-ico-design]:before {
+    font-family: Design;
+    content: attr(data-ico-design);
+}
 
-        @font-face {
-            font-family: "Engineering";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Engineering/Engineering.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Engineering";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Engineering/Engineering.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Engineering/Engineering.ttf") format("truetype");
+}
 
-        *[data-ico-engineering]:before {
-            font-family: Engineering;
-            content: attr(data-ico-engineering);
-        }
+*[data-ico-engineering]:before {
+    font-family: Engineering;
+    content: attr(data-ico-engineering);
+}
 
-        @font-face {
-            font-family: "Essential";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Essential/Essential.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Essential/Essential.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Essential";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Essential/Essential.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Essential/Essential.ttf") format("truetype");
+}
 
-        *[data-ico-essential]:before {
-            font-family: Essential;
-            content: attr(data-ico-essential);
-        }
+*[data-ico-essential]:before {
+    font-family: Essential;
+    content: attr(data-ico-essential);
+}
 
-        @font-face {
-            font-family: "FontAwesome";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome/FontAwesome.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "FontAwesome";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome/FontAwesome.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome/FontAwesome.ttf") format("truetype");
+}
 
-        *[data-ico-fontawesome]:before {
-            font-family: FontAwesome;
-            content: attr(data-ico-fontawesome);
-        }
+*[data-ico-fontawesome]:before {
+    font-family: FontAwesome;
+    content: attr(data-ico-fontawesome);
+}
 
-        @font-face {
-            font-family: "FontAwesome5Brands";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Brands/FontAwesome5Brands.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "FontAwesome5Brands";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome5Brands/FontAwesome5Brands.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome5Brands/FontAwesome5Brands.ttf") format("truetype");
+}
 
-        *[data-ico-fontawesome5brands]:before {
-            font-family: FontAwesome5Brands;
-            content: attr(data-ico-fontawesome5brands);
-        }
+*[data-ico-fontawesome5brands]:before {
+    font-family: FontAwesome5Brands;
+    content: attr(data-ico-fontawesome5brands);
+}
 
-        @font-face {
-            font-family: "FontAwesome5Regular";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Regular/FontAwesome5Regular.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "FontAwesome5Regular";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome5Regular/FontAwesome5Regular.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome5Regular/FontAwesome5Regular.ttf") format("truetype");
+}
 
-        *[data-ico-fontawesome5regular]:before {
-            font-family: FontAwesome5Regular;
-            content: attr(data-ico-fontawesome5regular);
-        }
+*[data-ico-fontawesome5regular]:before {
+    font-family: FontAwesome5Regular;
+    content: attr(data-ico-fontawesome5regular);
+}
 
-        @font-face {
-            font-family: "FontAwesome5Solid";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/FontAwesome5Solid/FontAwesome5Solid.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "FontAwesome5Solid";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome5Solid/FontAwesome5Solid.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/FontAwesome5Solid/FontAwesome5Solid.ttf") format("truetype");
+}
 
-        *[data-ico-fontawesome5solid]:before {
-            font-family: FontAwesome5Solid;
-            content: attr(data-ico-fontawesome5solid);
-        }
+*[data-ico-fontawesome5solid]:before {
+    font-family: FontAwesome5Solid;
+    content: attr(data-ico-fontawesome5solid);
+}
 
-        @font-face {
-            font-family: "Heating";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Heating/Heating.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Heating/Heating.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Heating";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Heating/Heating.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Heating/Heating.ttf") format("truetype");
+}
 
-        *[data-ico-heating]:before {
-            font-family: Heating;
-            content: attr(data-ico-heating);
-        }
+*[data-ico-heating]:before {
+    font-family: Heating;
+    content: attr(data-ico-heating);
+}
 
-        @font-face {
-            font-family: "Icon7Stroke";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Icon7Stroke/Icon7Stroke.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Icon7Stroke";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Icon7Stroke/Icon7Stroke.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Icon7Stroke/Icon7Stroke.ttf") format("truetype");
+}
 
-        *[data-ico-icon7stroke]:before {
-            font-family: Icon7Stroke;
-            content: attr(data-ico-icon7stroke);
-        }
+*[data-ico-icon7stroke]:before {
+    font-family: Icon7Stroke;
+    content: attr(data-ico-icon7stroke);
+}
 
-        @font-face {
-            font-family: "Pipes";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Pipes/Pipes.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Pipes";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Pipes/Pipes.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Pipes/Pipes.ttf") format("truetype");
+}
 
-        *[data-ico-pipes]:before {
-            font-family: Pipes;
-            content: attr(data-ico-pipes);
-        }
+*[data-ico-pipes]:before {
+    font-family: Pipes;
+    content: attr(data-ico-pipes);
+}
 
-        @font-face {
-            font-family: "Plumber";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Plumber/Plumber.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Plumber";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Plumber/Plumber.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Plumber/Plumber.ttf") format("truetype");
+}
 
-        *[data-ico-plumber]:before {
-            font-family: Plumber;
-            content: attr(data-ico-plumber);
-        }
+*[data-ico-plumber]:before {
+    font-family: Plumber;
+    content: attr(data-ico-plumber);
+}
 
-        @font-face {
-            font-family: "Tools";
-            src: url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Tools/Tools.woff") format("woff"), url("http://127.0.0.1:5502/path/FlexiSpace/themes/qc/fonts/Tools/Tools.ttf") format("truetype");
-        }
+@font-face {
+    font-family: "Tools";
+    src: url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Tools/Tools.woff") format("woff"), url("https://prohauz.bold-themes.com/solar/wp-content/themes/prohauz/fonts/Tools/Tools.ttf") format("truetype");
+}
 
-        *[data-ico-tools]:before {
-            font-family: Tools;
-            content: attr(data-ico-tools);
-        }
+*[data-ico-tools]:before {
+    font-family: Tools;
+    content: attr(data-ico-tools);
+}
